@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/V26H69G/course1.jpg",
+    "title": "Introduction to Programming",
+    "details": "Learn the fundamentals of programming with this beginner-friendly course. Master the basics of coding and problem-solving.",
+    "price": 50,
+    "credit": 3
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/n3n8B6Q/course2.jpg",
+    "title": "Web Development Bootcamp",
+    "details": "Become a full-stack web developer in just 12 weeks. Cover HTML, CSS, JavaScript, and modern web frameworks.",
+    "price": 150,
+    "credit": 5
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/vm0J7rH/course3.jpg",
+    "title": "Digital Marketing Masterclass",
+    "details": "Unlock the secrets of digital marketing. Learn SEO, social media marketing, and online advertising strategies.",
+    "price": 80,
+    "credit": 4
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/cJg5YfN/course4.jpg",
+    "title": "Data Science Fundamentals",
+    "details": "Dive into data analysis and machine learning. Gain hands-on experience with Python and data visualization.",
+    "price": 100,
+    "credit": 7
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/jhJPRD1/course5.jpg",
+    "title": "Graphic Design Essentials",
+    "details": "Create stunning visuals and graphics. Explore design principles, typography, and Adobe Creative Suite.",
+    "price": 70,
+    "credit": 6
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/5FnPsn2/course6.jpg",
+    "title": "Business Strategy and Management",
+    "details": "Develop strategic thinking skills and lead with confidence. Understand business models and management techniques.",
+    "price": 90,
+    "credit": 2
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/7WPLPLP/course7.jpg",
+    "title": "Photography Basics",
+    "details": "Capture beautiful moments with your camera. Learn photography techniques, composition, and editing.",
+    "price": 60,
+    "credit": 1
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/DpcfBtP/course8.jpg",
+    "title": "Creative Writing Workshop",
+    "details": "Unleash your writing potential. Explore various writing styles and techniques with expert guidance.",
+    "price": 50,
+    "credit": 4
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co/x5kry9h/course9.jpg",
+    "title": "Mobile App Development",
+    "details": "Build mobile apps for iOS and Android. Get hands-on experience with app development and deployment.",
+    "price": 130,
+    "credit": 8
+  }
+]
